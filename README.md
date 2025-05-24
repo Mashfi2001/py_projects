@@ -17,7 +17,7 @@ A simple Space Invaders game made using Python and Pygame.
 
 ## Screenshots
 
-(Add a screenshot here if you'd like)
+![image](https://github.com/user-attachments/assets/ddc609db-ee72-4984-ab23-24df83fe8ecd)
 
 ## Credits
 
