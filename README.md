@@ -1,5 +1,5 @@
 # py_projects
-# Space Invader(first ever pytone project i made)
+# Space Invader(first ever python project i made)
 # Space Invader
 
 A simple Space Invaders game made using Python and Pygame.
