@@ -1,6 +1,6 @@
 # py_projects
-#Space Invader(first ever pytone project i made)
-# Space Invaders Clone
+# Space Invaders(first ever pytone project i made)
+# Space Invaders
 
 A simple Space Invaders game made using Python and Pygame.
 
